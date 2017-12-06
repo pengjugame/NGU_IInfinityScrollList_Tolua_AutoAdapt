@@ -1,0 +1,1 @@
+# NGU_IInfinityScrollList_Tolua_AutoAdapt
